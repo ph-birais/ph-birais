@@ -49,6 +49,6 @@ I enjoy projects that bridge the physical and digital worlds: robots, embedded s
 | [**RMA-Simulator**](https://github.com/ph-birais/RMA-Simulator) | Simulador em Unity | Unity-based simulator |
 | [**Underwater-Glider**](https://github.com/ph-birais/Underwater-Glider) | Glider subaquático de baixo custo | Low-cost underwater glider |
 | [**3C**](https://github.com/ph-birais/3C) | Central de recarga de créditos na carteirinha universitária | Top-up station for university ID card credits |
-| [**Portfolio**](https://github.com/ph-birais/ph-birais.github.io) | Meu site pessoal | My personal website |
+| [**Portfolio**](https://ph-birais.github.io/) | Meu site pessoal ([código](https://github.com/ph-birais/ph-birais.github.io)) | My personal website ([source](https://github.com/ph-birais/ph-birais.github.io)) |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt=""/>
